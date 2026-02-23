@@ -7,6 +7,12 @@ Cílem semestrální práce je vytvořit webovovou aplikaci, která demonstruje 
     - 📆 **8. 3. 2026** – Konzultovat téma semestrální práce a odevzdat README.md soubor s popisem tématu do repozitáře.
         - Přes Microsoft Teams nebo osobně.
     - 📆 **12. 4. 2026** – Navrhnout databázový model a vložit ho s popisem entit do README.md.
+    - 📆 **20. 4. 2026** – Průběžná kontrola semestrální práce.
+      - V době cvičení. 
+        - Lze i přes Microsoft Teams. 
+      - Pushnout do repozitáře rozpracovaný kód backendu. 
+        - Databázové připojení, základní REST operace pro všechny entity. 
+        - Obsah cvičení 1 – 4.
 - **Termín odevzdání:** minimálně **48 hodin před termínem zápočtu**, který si student zvolí.
 - **Odevzdání repozitáře:** GitHub Classroom.
 
