@@ -90,13 +90,7 @@ postgres                  latest    b6b4d0b75c69   9 days ago    665MB
 5. Spusťte kontejner:
 
 ```bash
-docker run --name nnpia-postgres \
--e POSTGRES_DB=nnpia \
--e POSTGRES_USER=nnpia \
--e POSTGRES_PASSWORD=nnpia \
--p 5432:5432 \
--v nnpia-data:/var/lib/postgresql \
--d postgres:latest
+docker run --name nnpia-postgres -e POSTGRES_DB=nnpia -e POSTGRES_USER=nnpia -e POSTGRES_PASSWORD=nnpia -p 5432:5432 -v nnpia-data:/var/lib/postgresql -d postgres:latest
 ```
 
 ```terminaloutput
